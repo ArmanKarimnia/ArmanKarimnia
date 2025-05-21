@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **ArgoCD, Helm, and Terraform**
 
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/ArmanK292)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/arman-karimnia-9603a594/)**
 
-- 📁 My learning repo: [MyLearn](https://github.com/ArmanK292/MyLearn)
 
 ---
 
