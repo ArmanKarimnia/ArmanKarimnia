@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arman</h1>
+<h1 align="center">Hi 👋, I'm Arman Karimnia</h1>
 <h3 align="center">A passionate DevOps Engineer from Iran</h3>
 
 - 🔭 I’m currently working on **CI/CD pipelines, Kubernetes clusters, and observability stacks**
